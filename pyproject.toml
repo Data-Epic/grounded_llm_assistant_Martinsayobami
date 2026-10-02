@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "groundedqa"
+version = "0.1.0"
+description = "A small grounded question-answering package backed by the Groq API."
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{ include = "groundedqa" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31"
+python-dotenv = "^1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+pytest-cov = "^5.0"
+
+[tool.poetry.scripts]
+ask = "groundedqa.cli:ask_main"
+compare = "groundedqa.cli:compare_main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
