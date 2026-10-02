@@ -1,0 +1,31 @@
+customer_id,name,country,loyalty_score,signup_date,total_spend
+C001,Amaka Okafor,Nigeria,88,2023-01-14,542.30
+C002,Tunde Bello,Nigeria,45,2023-03-02,120.00
+C003,Grace Wanjiru,Kenya,72,2022-11-20,310.75
+C004,John Kamau,Kenya,39,2023-06-11,89.50
+C005,Sarah Johnson,USA,91,2021-09-05,980.20
+C006,Mike Davis,USA,55,2022-02-17,410.00
+C007,Emily Clarke,UK,67,2022-07-30,275.60
+C008,Oliver Smith,UK,30,2023-04-22,60.00
+C009,Kwame Mensah,Ghana,84,2022-12-01,455.00
+C010,Ama Owusu,Ghana,58,2023-05-18,199.99
+C011,Thabo Nkosi,South Africa,76,2021-10-09,610.40
+C012,Lindiwe Dube,South Africa,42,2023-02-27,150.25
+C013,Priya Sharma,India,95,2021-06-15,1200.00
+C014,Raj Patel,India,60,2022-09-03,340.10
+C015,Chidinma Eze,Nigeria,29,2023-07-01,75.00
+C016,Ifeanyi Obi,Nigeria,81,2022-04-19,499.99
+C017,Wanjiku Njoroge,Kenya,50,2023-01-30,220.00
+C018,David Otieno,Kenya,90,2021-12-12,875.00
+C019,Laura Miller,USA,38,2023-08-14,95.40
+C020,James Wilson,USA,70,2022-05-25,505.00
+C021,Sophie Turner,UK,85,2021-11-11,690.00
+C022,Harry Evans,UK,48,2023-03-29,180.00
+C023,Kofi Boateng,Ghana,66,2022-10-06,300.00
+C024,Efua Asante,Ghana,33,2023-06-22,102.50
+C025,Sipho Zulu,South Africa,92,2021-08-08,1050.00
+C026,Nomvula Khumalo,South Africa,55,2022-01-16,260.00
+C027,Anjali Gupta,India,40,2023-04-04,140.00
+C028,Vikram Singh,India,77,2022-06-28,565.50
+C029,Chinedu Nwosu,Nigeria,63,2023-02-09,289.00
+C030,Ngozi Adeyemi,Nigeria,97,2021-07-19,1420.00
